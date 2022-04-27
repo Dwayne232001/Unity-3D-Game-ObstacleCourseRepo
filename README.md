@@ -52,12 +52,6 @@ Note: You will need to purchase some packages on the Unity Asset Store to obtain
 
 ![This is an image](/Assets/GameImages/PosterShot.png)
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
-
 ## Game Related References
 
 ### Websites:
@@ -142,3 +136,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links
 - https://www.makeareadme.com/
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
